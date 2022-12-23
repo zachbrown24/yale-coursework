@@ -1,11 +1,11 @@
 # yale-coursework
 
-| Fall 2020 | Intro to Computer Science | Multivariable Calculus | Verse Letters | Pandemic Literature |
-| --------- | --- | --- | --- | --- | --- |
-| Spring 2021 | Data Structures & Programming Techniques | Intro Statistics, Intensive | Language and Computation I | 
 
 
-| Command | Description |
+| Fall 2020 | Intro to Computer Science | Multivariable Calculus | Pandemic Literature | Verse Letters
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Spring 2021 | List all new or modified files |
+| Fall 2021 | Show file differences that haven't been staged |
+| Spring 2022 |
+| Fall 2022 |
+| Spring 2023
